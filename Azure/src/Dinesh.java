@@ -5,6 +5,7 @@ public class Dinesh {
 	{
 		// TODO Auto-generated method stub
 		System.out.println("AZURE");
+		System.out.print("HELLO THIS IS UPDATED ON THE GIT");
 
 	}
 
